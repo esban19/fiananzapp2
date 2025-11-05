@@ -1,0 +1,41 @@
+{
+    "total_gastos": 1734.0,
+    "total_ingresos": 2200.0,
+    "total_ahorros": 0,
+    "movimientos": [
+        {
+            "fecha": "2025-06-02 22:25",
+            "tipo": "gasto",
+            "categoria": "Coche",
+            "monto": 1234.0
+        },
+        {
+            "fecha": "2025-06-02 22:25",
+            "tipo": "ingreso",
+            "categoria": "Pagos",
+            "monto": 2000.0
+        },
+        {
+            "fecha": "2025-06-02 22:25",
+            "tipo": "ingreso",
+            "categoria": "Transferencias",
+            "monto": 200.0
+        },
+        {
+            "fecha": "2025-06-02 22:25",
+            "tipo": "gasto",
+            "categoria": "Comida",
+            "monto": 500.0
+        }
+    ],
+    "metas_por_usuario": {
+        "default": [
+            {
+                "nombre": "ahorro",
+                "cantidad": 500.0,
+                "progreso": 0.0,
+                "fecha_limite": "2025-07-04"
+            }
+        ]
+    }
+}
